@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+
 """
 prepare_release_build.py  --  PUBLIC template: selection + de-identification helpers.
 
@@ -37,7 +38,7 @@ IMPORTANT
 - If you create multiple dataset versions over time, REUSE the SAME SALT_FILE
   to preserve stable SubjectID values across releases.
 
-Author: (your team)
+Author: D Gatinel & J Malet
 """
 
 from __future__ import annotations
@@ -343,3 +344,5 @@ def run() -> None:  # superseded and disabled
 
 if __name__ == "__main__":
     raise SystemExit("This is a public template of helper functions; run build_release.py instead.")
+
+
