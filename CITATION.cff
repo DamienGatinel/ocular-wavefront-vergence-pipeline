@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived software release and the associated dataset."
+title: "Ocular wavefront vergence processing pipeline"
+type: software
+authors:
+  - family-names: "Gatinel"
+    given-names: "Damien"
+    affiliation: "Adolphe de Rothschild Foundation Hospital, Paris, France"
+  - family-names: "Malet"
+    given-names: "Jacques"
+    affiliation: "Adolphe de Rothschild Foundation Hospital, Paris, France"
+version: "2.0.0"
+date-released: "2026-07-22"
+license: "MIT"
+keywords:
+  - ocular wavefront
+  - Zernike polynomials
+  - vergence
+  - peak-to-valley normalization
+  - ophthalmology
