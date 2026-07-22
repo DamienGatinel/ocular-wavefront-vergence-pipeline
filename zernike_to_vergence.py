@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 ================================================================================
-                    TRACEY ZERNIKE -> VERGENCE PIPELINE  (v1)
+                ZERNIKE -> VERGENCE PIPELINE  (v1)
 ================================================================================
 
 Purpose
@@ -80,8 +80,7 @@ Conventions
 
 Author / Maintainer
 -------------------
-Adapted from my initial OPDscan pipeline by D. Gatinel and restructured in English
-for third-party integration (Tracey / iTrace).
+Adapted from my initial OPDscan pipeline by D. Gatinel a
 """
 
 # =============================================================================
